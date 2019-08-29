@@ -14,5 +14,5 @@ A class that arranges nodes into a grid with a specified number of rows and colu
 *Within your SKScene*
 ```swift
 let tileManager = TileManager(from: graph, with: textureSet)
-tileManager!.addTilesTo(scene: self)
+tileManager.addTilesTo(scene: self)
 ```
