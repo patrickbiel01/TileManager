@@ -1,5 +1,5 @@
 # Tile Manager
-A class that arranges nodes into a grid with a specified number of rows and columns and handles specific interaction
+A class that arranges nodes into a grid with a specified number of rows and columns and handles specific interaction with the abstracted grid
 
 ## Notes
 * GKGridGraph is a part of Apple's GameKit API
