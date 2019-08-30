@@ -1,6 +1,9 @@
 # Tile Manager
 A class that arranges nodes into a grid with a specified number of rows and columns and handles specific interaction with the abstracted grid
 
+### Used in the Relic Race App:
+Avaialble on the iOS App Store [here](https://apps.apple.com/ca/app/relic-race/id1476996951)
+
 ## Notes
 * GKGridGraph is a part of Apple's GameKit API
 * graph is used to represent a maze. It's creation and usage is detailed [here](https://github.com/patrickbiel01/Maze-Generation)
